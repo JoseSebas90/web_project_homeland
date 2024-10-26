@@ -1,3 +1,9 @@
+.footer {
+  width: 191px;
+  justify-content: center;
+  margin-bottom: 24px;
+}
+
 .footer__copyright {
   width: 200px;
   font-size: 14px;

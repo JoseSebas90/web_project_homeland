@@ -1,0 +1,53 @@
+.welcome {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 92px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.welcome__title {
+  width: 90%;
+  margin: 0;
+  margin-bottom: 40px;
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 58px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
+
+.welcome__paragraph_principal {
+  width: 82%;
+  margin: 0;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
+
+.welcome__paragraph_second {
+  width: 82%;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
+
+.welcome__paragraph_author-joseph {
+  width: 82%;
+  margin-top: -10px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: right;
+  color: #ffffff;
+}
