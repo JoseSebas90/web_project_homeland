@@ -9,6 +9,14 @@
     background-color: #2a2c2f;
   }
 
+  .logo {
+    width: 50%;
+    height: 2%;
+    margin-top: 34px;
+    margin-bottom: 25px;
+    justify-content: center;
+  }
+
   .header {
     width: 100%;
   }
@@ -43,8 +51,8 @@
     background-color: #2a2c2f;
   }
 
-  .logotipo {
-    width: 74%;
+  .logo {
+    width: 50%;
     height: 2%;
     margin-top: 34px;
     margin-bottom: 25px;
@@ -52,11 +60,11 @@
   }
 
   .header {
-    width: 100%;
+    width: 80%;
   }
 
   .header__title {
-    width: 100%;
+    width: 80%;
     font-size: 40px;
     font-weight: 900;
     line-height: 44px;
